@@ -1,0 +1,137 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA-256-Digest-Manifest: ZxdSIgVzfaNBdUDMkDRcDGyx2qlL7MmCJusmFrwp1i4=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: L9GsVv8/ihv8J9Qk0/F1WoWFCEYzncsMuZUClsV8QJE=
+
+Name: classes.dex
+SHA-256-Digest: 7a1agbPPn0LOHQnQP6stFY9Zb/TY5yaclaBeDPtDYmk=
+
+Name: res/anim/slide_in_left.xml
+SHA-256-Digest: Za5c2/8yal9JumfT9OfjahpU5/4PIhQDFHFW6TC82BU=
+
+Name: res/anim/slide_in_right.xml
+SHA-256-Digest: ThBGDOD/JO2uonxd+J85eyEBl48cYoYRUUpBMBgcOc0=
+
+Name: res/anim/slide_out_left.xml
+SHA-256-Digest: j2FbsIAX8xZH+UPU5thZuMrvNwzDEkcbafucqfzCKhA=
+
+Name: res/anim/slide_out_right.xml
+SHA-256-Digest: i266auGQVPsZmXh+ZasqMfDC8zpXT+w9Yf/akz6LjHI=
+
+Name: res/drawable-anydpi-v24/alarm_klock_fg.xml
+SHA-256-Digest: 8LT6DQXtZDMFzseqcVzPFzN6QM/3x2uLBNWGV5caZl0=
+
+Name: res/drawable-hdpi/alarm_klock_fg.png
+SHA-256-Digest: es6yh5KeP80zq71OXgd7W6Ek5/GhxpQn5Gu4XwN771I=
+
+Name: res/drawable-ldpi/alarm_klock_fg.png
+SHA-256-Digest: CfJIh/jiXsCdOV3L5yiGGQUdwG5PDFJPKf10Y3kl2f4=
+
+Name: res/drawable-mdpi/alarm_klock_fg.png
+SHA-256-Digest: QmKb67HCofFR3tywBe1NaEwh6JCx8PPf7EkV/qTDuAE=
+
+Name: res/drawable-xhdpi/alarm_klock_fg.png
+SHA-256-Digest: slL24hJCK4+fieFNJqfQl0/1/qZDz1qqMm5YKPctz94=
+
+Name: res/drawable-xxhdpi/alarm_klock_fg.png
+SHA-256-Digest: q47dc+IRZ33z/IaKbvb9xK/31DFGtJm8HHCerWPHGsQ=
+
+Name: res/drawable-xxxhdpi/alarm_klock_fg.png
+SHA-256-Digest: g5RYalY0C0ev5iTLeZrFyLpuJGB3T9vFM3xFOJywWk4=
+
+Name: res/drawable/circle_btn.xml
+SHA-256-Digest: GxAMqJScm59ebO18Lfh/hK+p6tNvEjuSximNZldD6AY=
+
+Name: res/drawable/ic_access_time.xml
+SHA-256-Digest: 0wPoUokD54tnlNf4AN5h/6FRybKMyv1WcVcK9ID95RM=
+
+Name: res/drawable/ic_add.xml
+SHA-256-Digest: rOARHPWAbpujgyvE5CN13n9Gq+Th7NiX0vD7+HyHxgk=
+
+Name: res/drawable/ic_alarm.xml
+SHA-256-Digest: cpo8yOD7SfMwryWVKvfX9KADm5bQFagDnkgryqTs6Gw=
+
+Name: res/drawable/ic_alarm_on.xml
+SHA-256-Digest: p6harXGrxmKC6N4TZYVIun+i0vULFnZlCXJqFZfquyU=
+
+Name: res/drawable/ic_forward.xml
+SHA-256-Digest: KODv+2TqfVrRBK0l4pJZiQuEX4+iI5yWqdPkNPwZLYg=
+
+Name: res/drawable/ic_label_outline.xml
+SHA-256-Digest: fETE5HEFTY+Cso5HxwgcnT4rRtckc7E/ZkQRmzC7mE8=
+
+Name: res/drawable/ic_music_note.xml
+SHA-256-Digest: iIYwMjb2n8B7/DwUXM4jaIcKOsI4z1XUUgiiAVb3q/Y=
+
+Name: res/drawable/ic_snooze.xml
+SHA-256-Digest: /E5qvDlLykpwEe+Xuvhf4tP9Re8ns2fqRWsAq+ClK1Q=
+
+Name: res/drawable/ic_today.xml
+SHA-256-Digest: c2yVvSoqsLJWLtQP/awjCoRZzqEkwidm0s0J7/yaS9I=
+
+Name: res/drawable/ic_vibration.xml
+SHA-256-Digest: FZC+89XJMeCZDOOZtJ8YRjpdKfRP7QcwmQ5mvPmgOL0=
+
+Name: res/drawable/ic_volume_up.xml
+SHA-256-Digest: JZY/xWC6+iguYrYcrd5P6Y1hHTHdSUWIvCKWeD08pGQ=
+
+Name: res/drawable/rect_btn.xml
+SHA-256-Digest: xZhXQFl1DKDbxh7Xx3eTZFCFDNOxasarEf/KFMxBN1k=
+
+Name: res/layout/alarm_list.xml
+SHA-256-Digest: NgkoYufr0HAiEzG0hqJb8pwUaQBPpwO5vRAgYZfuWLY=
+
+Name: res/layout/alarm_list_item.xml
+SHA-256-Digest: DSDFo56irBQoQsymoD5/UTjw4vAJHFcdQKh8MF6/mTk=
+
+Name: res/layout/media_picker.xml
+SHA-256-Digest: Yxv5ZjDVypHVShE48xRw98Aa2G9hQtKIMx7b8VLcvls=
+
+Name: res/layout/media_picker_item.xml
+SHA-256-Digest: UxzpXGe60o4ZJ7axKlU3g0XxrdQTAoMp0aVRUW10JBk=
+
+Name: res/layout/notification.xml
+SHA-256-Digest: 1K9efvE6h+NMB5rX16I/CZN30tCLMAyznT3Vci5JFNc=
+
+Name: res/layout/range_bar.xml
+SHA-256-Digest: wRn45KONZSMuCx68I5QF/bpeyYVjqg5Co4j6PmcXTJ0=
+
+Name: res/layout/settings_item.xml
+SHA-256-Digest: qqASE/8IabHJJ4AGy4evje9cucl1TeLjUyL/hvcaF+Q=
+
+Name: res/layout/slider.xml
+SHA-256-Digest: xuqHMdydNYvxYQchBnLlZIT1hpamdAmEv7+TanJ/dJ8=
+
+Name: res/layout/time_picker.xml
+SHA-256-Digest: eAzk7Xz6u3ZnpOgTdOp4YYApywnP/2TUcakEVyHqtlI=
+
+Name: res/menu/alarm_list_menu.xml
+SHA-256-Digest: 1wgCbIbNFn34na9YtCGkR0nilQbGKH8APKYNSbFoeB8=
+
+Name: res/mipmap-anydpi-v26/alarm_klock.xml
+SHA-256-Digest: YRL+asah8kbXO05reJA7uR+76Sl8Bp6z0OUwyrs6KBo=
+
+Name: res/mipmap-hdpi/alarm_klock.png
+SHA-256-Digest: fcdtuX12JQDKGK0XVuxMR/qUNIyNqYZeazp2ptvBxxc=
+
+Name: res/mipmap-ldpi/alarm_klock.png
+SHA-256-Digest: myJty3m39CaLuQaKJQ2m3+XatpEspdAr4vvVgJr8yM0=
+
+Name: res/mipmap-mdpi/alarm_klock.png
+SHA-256-Digest: wV7fKhqM3zv2Z+B7OarZ8N3wNRg5YoghW3M2paphQNo=
+
+Name: res/mipmap-xhdpi/alarm_klock.png
+SHA-256-Digest: TtownOiZJzVMjgnaJBock/GUaUJn8Nd8kfF/7Paq/nY=
+
+Name: res/mipmap-xxhdpi/alarm_klock.png
+SHA-256-Digest: GWa1K85j58Uq9s/pD9+h0bggZ3KtslVNhzaVOZbTMBY=
+
+Name: res/mipmap-xxxhdpi/alarm_klock.png
+SHA-256-Digest: YZZJTIdZ5K+X5s4oMjBoAPJDnOa8uvKLtcVGUJo1RPk=
+
+Name: resources.arsc
+SHA-256-Digest: 8w9nkASOFxjkKT3CrA2U+oW6JORYaOgpaLgYfmCAyK4=
+
