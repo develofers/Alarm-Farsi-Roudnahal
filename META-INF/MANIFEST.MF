@@ -130,5 +130,5 @@ Name: res/mipmap-xxxhdpi/alarm_klock.png
 SHA-256-Digest: cQU4Qf61j41WPS/Dn0HG6LLAqfgdOExtpEB7iLt47W0=
 
 Name: resources.arsc
-SHA-256-Digest: p3ixmNQwSSHhX51PtFOIDWJUgwPFFp9D0otNjpb9tRc=
+SHA-256-Digest: s+Iuk1cTbssIqr45xLOiZt0Dzzu+PDaDNeOLteEHWUs=
 
