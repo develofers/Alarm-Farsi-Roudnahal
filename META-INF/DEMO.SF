@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android)
-SHA-256-Digest-Manifest: ZxdSIgVzfaNBdUDMkDRcDGyx2qlL7MmCJusmFrwp1i4=
+SHA-256-Digest-Manifest: 7Hj0DutaNIn/3lo/j4zHOGp/TxJldSHv/nAgJV1Nqj4=
 X-Android-APK-Signed: 2, 3
 
 Name: AndroidManifest.xml
@@ -133,5 +133,5 @@ Name: res/mipmap-xxxhdpi/alarm_klock.png
 SHA-256-Digest: YZZJTIdZ5K+X5s4oMjBoAPJDnOa8uvKLtcVGUJo1RPk=
 
 Name: resources.arsc
-SHA-256-Digest: 8w9nkASOFxjkKT3CrA2U+oW6JORYaOgpaLgYfmCAyK4=
+SHA-256-Digest: +mCmNHkLo4aCXLTwKUJE79oFULUGx6P5sMV/pc3cYHY=
 
